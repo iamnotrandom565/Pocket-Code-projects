@@ -14,7 +14,7 @@ And you're ready to go!
 
 ### Idle Number
 
-Idle Number is a minimalist clicker game that is 300 kilobytes (in fact, half of it is just for one audio for a *nice* Easter Egg). You can figure the rest out, because the game is so simple and easy to pick up and play.
+Idle Number is a minimalist clicker + idle game that is 300 kilobytes (in fact, half of it is just for one audio for a *nice* Easter Egg). You can figure the rest out, because the game is so simple and easy to pick up and play.
 
 ### Other
 
